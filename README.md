@@ -1,6 +1,5 @@
 ### Hi there 👋, Abdullah S. Böğrek
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I graduated from the computer engineering program. I am interested in data science and web programming. I know it's two different technologies, but I'm still developing projects in two areas and trying to learn new things. I write articles about the topics I research and the technologies I learn and share them here.
 
