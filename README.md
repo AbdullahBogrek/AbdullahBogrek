@@ -1,4 +1,4 @@
-### Hi there 👋, Abdullah S. Böğrek
+### Abdullah S. Böğrek
 #### Software Developer
 
 I graduated from the computer engineering program. I am interested in data science and web programming. I know it's two different technologies, but I'm still developing projects in two areas and trying to learn new things. I write articles about the topics I research and the technologies I learn and share them here.
