@@ -1,7 +1,7 @@
 ### Abdullah S. Böğrek
 #### Software Developer
 
-Hey there! 👋 I'm a Computer Engineering graduate, currently calling the shots in the Full Stack Developer realm at a health tech startup. Let the repos do the talking – no need for extra words. Step into my code kingdom. 🌐
+Hey! 👋 I'm a Computer Engineering graduate, currently calling the shots in the Full Stack Developer realm at a health tech startup. Let the repos do the talking – no need for extra words. Step into my code kingdom. 🌐
 
 Skills: NodeJS, React, JavaScript, Python, C#, Vue.js, SQL, MongoDB, Redis
 
